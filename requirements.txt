@@ -1,0 +1,12 @@
+pyrogram
+tgcrypto
+aiohttp
+python-decouple
+pyaesni
+requests
+asyncio
+hachoir
+pyromod
+Pillow
+ffmpeg
+gdown
